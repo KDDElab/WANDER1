@@ -1,9 +1,9 @@
-# Weighted-digraph-Guided  Multi-Kernelized Learning for Outlier Explanation
+# Weighted-digraph-Guided Multi-Kernelized Learning for Outlier Explanation
 
 Note that this task is also referred to as outlier Interpretation, outlier aspect mining/discovering, outlier property detection, and outlier description.
 We make the source code of the six baseline methods publicly available. In addition, since outlier-interpretation-main/model_wander is the core code of the WANDER model, if this paper is fortunate enough to be accepted, we promise to make it publicly available immediately upon acceptance. Thank you for your understanding.
 
-### Seven Outlier Interpretation Methods (The source code of the proposed TMQ will be publicly available upon acceptance.)
+### Seven Outlier Explanation Methods
 
 **This repository contains seven outlier interpretation methods: WANDER[1], ATON [2], COIN[3], SiNNE[4], SHAP[5], LIME[6], and Anchors [7].**
 
